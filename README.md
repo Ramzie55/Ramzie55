@@ -1,74 +1,84 @@
+<!-- Ramzie · README · MMXXVI -->
+
 <div align="center">
 
-<!-- Header with Prism Boosts gradient (purple to pink) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ramzie&fontSize=80&fontAlign=50&fontAlignY=35&fontColor=fff&color=0:6366f1,50:8b5cf6,75:d946ef,100:ec4899&section=header&animation=fadeIn" />
-
-<br/>
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Web+Developer;Entrepreneur;CEO+at+Prism+Host;Founder+at+Prism+Boosts" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- Ventures -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2000&pause=999999&color=FFFFFF&center=true&vCenter=true&width=250&lines=My+Ventures" alt="My Ventures" />
-
-<br/><br/>
-
-<!-- Prism Host -->
-<a href="https://prism-host.com">
-<img src="https://img.shields.io/badge/Prism_Host-60a5fa?style=for-the-badge&logo=icloud&logoColor=white" alt="Prism Host" />
+<a href="https://github.com/Ramzie55">
+  <img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=110&duration=1500&pause=999999&color=E8E6F0&center=true&vCenter=true&width=620&height=140&lines=Ramzie." alt="Ramzie" />
 </a>
 
-<br/>
+_Web developer & entrepreneur — building hosting, communities, and tools from the ground up._
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=2000&pause=999999&color=D1D5DB&center=true&vCenter=true&width=100&lines=CEO" alt="CEO" />
+`Web Developer` &nbsp; · &nbsp; `CEO at Prism Host` &nbsp; · &nbsp; `Founder at Prism Boosts` &nbsp; · &nbsp; `Founder at DBD-Builds`
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=14&duration=2000&pause=999999&color=9CA3AF&center=true&vCenter=true&width=300&lines=Premium+hosting+infrastructure" alt="Description" />
+---
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=44&duration=1500&pause=999999&color=A78BFA&width=420&height=64&lines=01+%2F+Ventures" alt="01 / Ventures" />
 
-<!-- Prism Boosts -->
-<a href="https://prismboosts.com">
-<img src="https://img.shields.io/badge/Prism_Boosts-8b5cf6?style=for-the-badge&logo=discord&logoColor=white" alt="Prism Boosts" />
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [Prism Host →](https://prism-host.com)
+
+`CEO`  ·  `2023 →`
+
+Premium hosting infrastructure. Fast, reliable, always on. SSD-backed game & web servers with a dashboard that doesn't fight you.
+
+</td>
+<td width="33%" valign="top">
+
+### [Prism Boosts →](https://prismboosts.com)
+
+`Founder`  ·  `2022 →`
+
+The #1 Discord boosting service. Instant delivery, 30+ payment methods, smoothest checkout in the space.
+
+</td>
+<td width="33%" valign="top">
+
+### [DBD-Builds →](https://dbd-builds.com)
+
+`Founder`  ·  `2024 →`
+
+Loadout library & meta tracker for Dead by Daylight. Searchable builds, current tier data, share-cards.
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=44&duration=1500&pause=999999&color=A78BFA&width=320&height=64&lines=02+%2F+Stack" alt="02 / Stack" />
+
+**Languages** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=A78BFA&labelColor=161b22) ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=A78BFA&labelColor=161b22) ![HTML](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=A78BFA&labelColor=161b22) ![CSS](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=A78BFA&labelColor=161b22)
+
+**Frameworks** &nbsp; ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=A78BFA&labelColor=161b22) ![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=A78BFA&labelColor=161b22) ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=A78BFA&labelColor=161b22) ![Express](https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=A78BFA&labelColor=161b22)
+
+**Infra** &nbsp; ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=A78BFA&labelColor=161b22) ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=A78BFA&labelColor=161b22) ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=A78BFA&labelColor=161b22) ![nginx](https://img.shields.io/badge/nginx-161b22?style=flat-square&logo=nginx&logoColor=A78BFA&labelColor=161b22)
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=44&duration=1500&pause=999999&color=A78BFA&width=360&height=64&lines=03+%2F+Activity" alt="03 / Activity" />
+
+<a href="https://github.com/Ramzie55">
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ramzie55&bg_color=0D1117&color=A78BFA&line=A78BFA&point=E6EDF3&area=true&area_color=A78BFA&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+</a>
+<a href="https://github.com/Ramzie55">
+  <img height="165" src="https://streak-stats.demolab.com/?user=Ramzie55&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=9BA1A8&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak"/>
 </a>
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=2000&pause=999999&color=D1D5DB&center=true&vCenter=true&width=100&lines=Founder" alt="Founder" />
+<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=400&size=44&duration=1500&pause=999999&color=A78BFA&width=400&height=64&lines=04+%2F+Elsewhere" alt="04 / Elsewhere" />
 
-<br/>
+> Open to interesting collaborations — particularly around hosting, community tooling, and game-adjacent platforms. Otherwise, find me shipping at one of the three.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=14&duration=2000&pause=999999&color=9CA3AF&center=true&vCenter=true&width=350&lines=Premium+Discord+boosting+services" alt="Description" />
+[**GitHub**](https://github.com/Ramzie55) &nbsp;·&nbsp; [**Prism Host**](https://prism-host.com) &nbsp;·&nbsp; [**Prism Boosts**](https://prismboosts.com) &nbsp;·&nbsp; [**DBD-Builds**](https://dbd-builds.com) &nbsp;·&nbsp; [**Email**](mailto:hello@prism-host.com)
 
-<br/><br/><br/>
+---
 
-<!-- Tech Stack -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2000&pause=999999&color=FFFFFF&center=true&vCenter=true&width=220&lines=Tech+Stack" alt="Tech Stack" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,docker,linux&theme=dark" />
-
-<br/><br/><br/>
-
-<!-- GitHub Activity -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2000&pause=999999&color=FFFFFF&center=true&vCenter=true&width=320&lines=GitHub+Activity" alt="GitHub Activity" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramzie55&theme=tokyonight&hide_border=true&background=1a202c&stroke=8b5cf6&ring=d946ef&fire=ec4899&currStreakLabel=8b5cf6" width="500" alt="GitHub Streak"/>
-
-<br/><br/><br/>
-
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Ramzie55&color=8b5cf6&style=flat&label=Profile+Views" />
-
-<br/><br/>
-
-<!-- Footer with Prism Boosts gradient (purple to pink) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6366f1,50:8b5cf6,75:d946ef,100:ec4899&section=footer&animation=fadeIn" />
-
+<div align="center">
+<sub>★ Thanks for visiting &nbsp; · &nbsp; <img src="https://komarev.com/ghpvc/?username=Ramzie55&color=A78BFA&style=flat-square&label=profile+views" alt="views"/></sub>
 </div>
